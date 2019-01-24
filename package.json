@@ -1,0 +1,14 @@
+{
+  "name": "now-schemas",
+  "version": "2.14.0",
+  "description": "Built JSON file schemas directly from @zeit/schemas. This is just for convenience.",
+  "author": "Sam Carlile",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/schemas": "^2.14.0"
+  }
+}
